@@ -27,7 +27,7 @@ This repository contains a comprehensive 14-course program covering everything f
 | 5       | Job Opportunities & Skillsets     | Roles and skills in the software industry                      |
 | 6       | Final Quiz & Project              | Assess knowledge through hands-on projects                     |
 
-
+---
 
 ### 📱 Course 3: Get Started with Android App Development
 
