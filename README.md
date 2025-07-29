@@ -4,6 +4,18 @@ This repository contains a comprehensive 14-course program covering everything f
 
 ---
 
+## 🛠️ Tools and Libraries
+
+- **Android Studio & Xcode** – For developing and testing Android and iOS native apps.
+- **Flutter & Dart** – For building beautiful, cross-platform mobile applications.
+- **React & React Native** – To create high-performance web and mobile apps using JavaScript.
+- **Figma** – For designing UI/UX prototypes and user flows.
+- **Git & GitHub** – For version control, project collaboration, and code hosting.
+- **Firebase & SQLite** – For real-time database, authentication, and backend services in apps.
+
+
+---
+
 ## 📦 Courses
 
 ### 🧭 Course 1: Introduction to Mobile App Development
@@ -162,4 +174,16 @@ This repository contains a comprehensive 14-course program covering everything f
 
 ---
 
-> 📚 **Note:** Each course ends with a final project or assessment to ensure hands-on learning.
+
+
+---
+
+## ✨ Highlights
+
+- 🚀 **Beginner to Pro Journey** – Starts from the basics and leads you to advanced mobile app development skills.
+- 📱 **Covers Android, iOS & Cross-Platform** – Learn native Android (Java/Kotlin), iOS (Swift), Flutter, and React Native.
+- 🎨 **Hands-on UI/UX Design** – Use Figma to design modern, user-friendly app interfaces.
+- 🛠️ **Real-World Projects** – Every module includes final projects to build and showcase your apps.
+- 🤖 **Integrates Gen AI Tools** – Learn how to use Generative AI to boost development speed and productivity.
+- 🌐 **Web & Backend Essentials** – HTML, CSS, JavaScript, GitHub, Firebase, and more for full-stack mobile apps.
+
