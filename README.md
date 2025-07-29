@@ -108,12 +108,14 @@ This repository contains a comprehensive 14-course program covering everything f
 ### ⚛️ Course 10: React Native for Android & iOS
 
 | Sl. No. | Topic Name                     | Description                                                       |
-|--------|--------------------------------|-------------------------------------------------------------------|
-| 1      | Intro to React Native            | Set up for cross-platform apps                                    |
-| 2      | Styling & State Management       | Build responsive UI and manage state                              |
-| 3      | Handling Interactions            | Forms, gestures, and navigation                                   |
-| 4      | Debugging & Publishing           | Deploy and troubleshoot apps                                      |
-| 5      | Final Project                    | Capstone app build                                                |
+|--------:|--------------------------------|-------------------------------------------------------------------|
+| 1       | Intro to React Native          | Set up for cross-platform apps using React Native                 |
+| 2       | Working with Native Features   | Access device features like camera, location, and sensors         |
+| 3       | Styling & State Management     | Build responsive UI and manage component state                   |
+| 4       | Handling Interactions          | Handle user gestures, forms, and navigation                      |
+| 5       | Debugging & Publishing         | Debug and publish apps to Play Store and App Store               |
+| 6       | Final Project                  | Capstone app build                                                |
+
 
 ---
 
