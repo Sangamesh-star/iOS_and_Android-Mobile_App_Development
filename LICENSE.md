@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 𝗦𝗔𝗡𝗚𝗔𝗠𝗘𝗦𝗛 𝗠𝗞
+Copyright (c) 2025 𝗦𝗔𝗡𝗚𝗔𝗠𝗘𝗦𝗛 𝗠 𝗞𝗨𝗥𝗜
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
