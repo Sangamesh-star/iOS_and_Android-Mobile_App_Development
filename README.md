@@ -20,11 +20,13 @@ This repository contains a comprehensive 14-course program covering everything f
 
 | Sl. No.| Topic Name                        | Description                                                      |
 |--------|-----------------------------------|------------------------------------------------------------------|
-| 1      | Software Dev Lifecycle            | Understanding phases from planning to deployment                 |
-| 2      | Basics of Programming             | Core programming concepts and logic                              |
-| 3      | Architecture, Design & Patterns   | Intro to scalable software design approaches                     |
-| 4      | Job Opportunities & Skillsets     | Roles and skills in software industry                            |
-| 5      | Final Quiz & Project              | Assess knowledge through hands-on projects                       |
+| 1      | Software Dev Lifecycle            | Understanding phases from planning to deployment 
+
+| 2      | Introduction to Software Development| Things to know about software development|                |
+| 3      | Basics of Programming             | Core programming concepts and logic                              |
+| 4      | Architecture, Design & Patterns   | Intro to scalable software design approaches                     |
+| 5      | Job Opportunities & Skillsets     | Roles and skills in software industry                            |
+| 6      | Final Quiz & Project              | Assess knowledge through hands-on projects                       |
 
 ---
 
