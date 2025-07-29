@@ -8,7 +8,7 @@ This repository contains a comprehensive 14-course program covering everything f
 
 ### 🧭 Course 1: Introduction to Mobile App Development
 
-| Sl. No. | Topic Name                     | Description                                                        |
+| Sl. No.| Topic Name                    | Description                                                        |
 |--------|-------------------------------|--------------------------------------------------------------------|
 | 1      | Intro to Mobile App Landscape | Overview of mobile platforms and current trends                    |
 | 2      | Mobile App Ecosystem          | Tools, technologies, and frameworks in app development             |
@@ -18,7 +18,7 @@ This repository contains a comprehensive 14-course program covering everything f
 
 ### 🏗️ Course 2: Introduction to Software Engineering
 
-| Sl. No. | Topic Name                        | Description                                                      |
+| Sl. No.| Topic Name                        | Description                                                      |
 |--------|-----------------------------------|------------------------------------------------------------------|
 | 1      | Software Dev Lifecycle            | Understanding phases from planning to deployment                 |
 | 2      | Basics of Programming             | Core programming concepts and logic                              |
@@ -30,29 +30,29 @@ This repository contains a comprehensive 14-course program covering everything f
 
 ### 📱 Course 3: Get Started with Android App Development
 
-| Sl. No. | Topic Name                     | Description                                                       |
-|--------|--------------------------------|-------------------------------------------------------------------|
-| 1      | Intro to Android Development    | Set up Android Studio and tools                                   |
-| 2      | Developing Android Apps         | Build basic Android apps                                          |
-| 3      | Final Project & Course Wrap-up  | Capstone project submission                                       |
+| Sl. No. | Topic Name                      | Description                                                       |
+|---------|---------------------------------|-------------------------------------------------------------------|
+| 1       | Intro to Android Development    | Set up Android Studio and tools                                   |
+| 2       | Developing Android Apps         | Build basic Android apps                                          |
+| 3       | Final Project & Course Wrap-up  | Capstone project submission                                       |
 
 ---
 
 ### 🎨 Course 4: Designing UI/UX
 
-| Sl. No. | Topic Name                     | Description                                                       |
-|--------|--------------------------------|-------------------------------------------------------------------|
-| 1      | Intuitive Frontends             | Principles of UI/UX design                                        |
-| 2      | Web Design Methodologies        | Planning and prototyping                                          |
-| 3      | UI Design with Figma            | Create UI mockups using Figma                                     |
-| 4      | Final Project & Assessment      | Apply design skills practically                                   |
+| Sl. No. | Topic Name                      | Description                                                       |
+|---------|---------------------------------|-------------------------------------------------------------------|
+| 1       | Intuitive Frontends             | Principles of UI/UX design                                        |
+| 2       | Web Design Methodologies        | Planning and prototyping                                          |
+| 3       | UI Design with Figma            | Create UI mockups using Figma                                     |
+| 4       | Final Project & Assessment      | Apply design skills practically                                   |
 
 ---
 
 ### 🛠️ Course 5: Getting Started with Git & GitHub
 
 | Sl. No. | Topic Name                     | Description                                                       |
-|--------|--------------------------------|-------------------------------------------------------------------|
+|--------|---------------------------------|-------------------------------------------------------------------|
 | 1      | Git & GitHub Fundamentals       | Learn version control basics                                      |
 | 2      | Git Commands & Project Mgmt     | Branching, merging, and managing issues                           |
 | 3      | GitHub on Windows Desktop       | GUI tools for managing repos                                      |
