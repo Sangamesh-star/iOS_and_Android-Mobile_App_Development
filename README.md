@@ -20,7 +20,7 @@ This repository contains a comprehensive 14-course program covering everything f
 
 | Sl. No.| Topic Name                        | Description                                                      |
 |--------|-----------------------------------|------------------------------------------------------------------|
-| 1      | Software Dev Lifecycle            | Understanding phases from planning to deployment 
+| 1      | Software Dev Lifecycle            | Understanding phases from planning to deployment |
 
 | 2      | Introduction to Software Development| Things to know about software development|                
 | 3      | Basics of Programming             | Core programming concepts and logic                              |
